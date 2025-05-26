@@ -1,9 +1,12 @@
 # xrb-week1
 
-Factory level design
-https://github.com/user-attachments/assets/3e7fb563-afde-44bf-b644-734bb52a09cd
 
-Pickup Flashflight
 
-https://github.com/user-attachments/assets/d0ae6622-3d77-4c02-9597-7800b84bf732
+
+
+https://github.com/user-attachments/assets/d0b7808b-b93a-45e0-a81f-1b6069972d9b
+
+
+
+https://github.com/user-attachments/assets/8ca3fcdf-2bc8-4a88-a030-061c711cef66
 
